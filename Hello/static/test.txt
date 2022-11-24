@@ -1,0 +1,2 @@
+Hi...Django static page.
+This is a static file.
